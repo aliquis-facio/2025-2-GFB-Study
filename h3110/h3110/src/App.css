@@ -1,0 +1,13 @@
+.black-box {
+  background-color: black;
+  color: white;
+}
+
+div {
+  box-sizing: border-box;
+}
+div.list {
+  border: 1px solid black;
+  padding: 10px;
+  margin-top: 15px;
+}
