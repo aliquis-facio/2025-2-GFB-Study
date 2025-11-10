@@ -1,5 +1,5 @@
 .back
 __pycache__
-.mako
-.ini
-.ico
+*.mako
+*.ini
+*.ico
